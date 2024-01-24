@@ -44,6 +44,21 @@ The data used in this project is provided in `.npz` format. NumPy's `.npz` forma
 
 The code for this project is provided in Jupyter notebooks.
 
+## Citation
+We would appreciate if you consider citing our work when using our code.
 
+```bibtex
+@ARTICLE{10352932,
+  author={Abdukhamidov, Eldor and Abuhamad, Mohammed and Woo, Simon S. and Chan-Tin, Eric and Abuhmed, Tamer},
+  journal={IEEE Transactions on Dependable and Secure Computing}, 
+  title={Hardening Interpretable Deep Learning Systems: Investigating Adversarial Threats and Defenses}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-13},
+  keywords={Predictive models;Deep learning;Security;Perturbation methods;Optimization;Image edge detection;Task analysis;Adversarial images;deep learning;interpretability;security;transferability},
+  doi={10.1109/TDSC.2023.3341090}
+}
+```
 
 
