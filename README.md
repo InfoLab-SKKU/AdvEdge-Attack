@@ -52,11 +52,10 @@ We would appreciate if you consider citing our work when using our code.
   author={Abdukhamidov, Eldor and Abuhamad, Mohammed and Woo, Simon S. and Chan-Tin, Eric and Abuhmed, Tamer},
   journal={IEEE Transactions on Dependable and Secure Computing}, 
   title={Hardening Interpretable Deep Learning Systems: Investigating Adversarial Threats and Defenses}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-13},
-  keywords={Predictive models;Deep learning;Security;Perturbation methods;Optimization;Image edge detection;Task analysis;Adversarial images;deep learning;interpretability;security;transferability},
+  year={2024},
+  volume={21},
+  number={4},
+  pages={3963-3976},
   doi={10.1109/TDSC.2023.3341090}
 }
 ```
